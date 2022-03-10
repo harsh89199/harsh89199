@@ -7,9 +7,9 @@
 
 [![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harsh89199&theme=github_dark)](https://github.com/harsh89199)
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+<!--If you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/harsh89199" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/harsh89199" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>-->
 ---
 
 [![Linkedln Follow](https://img.shields.io/twitter/follow/harsh89199?label=linkedln&style=for-the-badge) ](https://www.linkedin.com/in/harsh-ratnani-a8237718a)
