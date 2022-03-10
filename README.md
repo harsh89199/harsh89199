@@ -1,9 +1,9 @@
 
 ---
 
-## My GitHub Stonks 👨‍💼📈
+<!--## My GitHub Stonks 👨‍💼📈
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh89199&hide=html,css,sass,yara,hack,xslt,blade,php&theme=github_dark)](https://github.com/harsh89199)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh89199&hide=html,css,sass,yara,hack,xslt,blade,php&theme=github_dark)](https://github.com/harsh89199)-->
 
 [![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=harsh89199&theme=github_dark)](https://github.com/harsh89199)
 
