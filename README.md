@@ -12,7 +12,7 @@
 <a href="https://www.buymeacoffee.com/harsh89199" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>-->
 ---
 
-[![Linkedln Follow](https://img.shields.io/twitter/follow/harsh89199?label=linkedln&style=for-the-badge) ](https://www.linkedin.com/in/harsh-ratnani-a8237718a)
+[![Linkedln Follow](https://img.shields.io/twitter/follow/harsh89199?label=linkedln&style=for-the-badge)](https://www.linkedin.com/in/harsh-ratnani-a8237718a)
 [![GitHub followers](https://img.shields.io/github/followers/harsh89199?label=github&style=for-the-badge)](https://github.com/harsh89199)
 
 <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=harsh89199&theme=react&border=61dafb&hide_border=true" alt="harsh89199" />
