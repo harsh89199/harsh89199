@@ -3,19 +3,19 @@
 
 ## My GitHub Stonks 👨‍💼📈
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinaynpp&hide=html,css,sass,yara,hack,xslt,blade,php&theme=github_dark)](https://github.com/vinaynpp)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh89199&hide=html,css,sass,yara,hack,xslt,blade,php&theme=github_dark)](https://github.com/harsh89199)
 
-[![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinaynpp&theme=github_dark)](https://github.com/vinaynpp)
+[![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=harsh89199&theme=github_dark)](https://github.com/harsh89199)
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/vinaynpp" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/harsh89199" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 ---
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/vinaynpp?label=twitter&style=for-the-badge) ](https://twitter.com/intent/follow?screen_name=vinaynpp)
-[![GitHub followers](https://img.shields.io/github/followers/vinaynpp?label=github&style=for-the-badge)](https://github.com/vinaynpp)
+[![Twitter Follow](https://img.shields.io/twitter/follow/harsh89199?label=twitter&style=for-the-badge) ](https://twitter.com/intent/follow?screen_name=harsh89199)
+[![GitHub followers](https://img.shields.io/github/followers/harsh89199?label=github&style=for-the-badge)](https://github.com/harsh89199)
 
-<img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=vinaynpp&theme=react&border=61dafb&hide_border=true" alt="vinaynpp" />
+<img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=harsh89199&theme=react&border=61dafb&hide_border=true" alt="harsh89199" />
 
 
 <br><br><br><br><br><br><br>
@@ -23,7 +23,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 ---
 
 
-<img src="https://activity-graph.herokuapp.com/graph?username=vinaynpp&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=harsh89199&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 [![Snake animation](./saap.svg)](./saap.svg)
 ---
