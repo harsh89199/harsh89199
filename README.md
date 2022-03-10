@@ -12,7 +12,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <a href="https://www.buymeacoffee.com/harsh89199" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 ---
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/harsh89199?label=twitter&style=for-the-badge) ](https://twitter.com/intent/follow?screen_name=harsh89199)
+[![Linkedln Follow](https://img.shields.io/twitter/follow/harsh89199?label=linkedln&style=for-the-badge) ](https://twitter.com/intent/follow?screen_name=harsh89199)
 [![GitHub followers](https://img.shields.io/github/followers/harsh89199?label=github&style=for-the-badge)](https://github.com/harsh89199)
 
 <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=harsh89199&theme=react&border=61dafb&hide_border=true" alt="harsh89199" />
