@@ -23,7 +23,6 @@
 ---
 
 
-<img src="https://activity-graph.herokuapp.com/graph?username=harsh89199&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 [![Snake animation](./saap.svg)](./saap.svg)
 ---
